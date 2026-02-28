@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "automotivejoe-project-db",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "bf2c842a-e9f7-480f-8579-dc5b01c5a92b",
+			"database_name": "automotivejoe_db"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
